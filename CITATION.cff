@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Horizon Transform: An Exactly Invertible, Linear-Time Multi-Scale Layer for Long Sequences"
+type: software
+authors:
+  - family-names: Selvaraj
+    given-names: Jagadeesh
+    orcid: "https://orcid.org/0009-0007-2314-4057"
+    affiliation: "NextGen Technologies Private Limited, Chennai, India"
+    email: dr.jagadeeshselvaraj@nextgentpl.com
